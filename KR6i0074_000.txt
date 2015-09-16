@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說妙吉祥菩薩所問大乘法螺經
+#+DATE: 2015-08-30 20:09:06.488341
+#+PROPERTY: JUAN 0
