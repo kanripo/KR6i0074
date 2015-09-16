@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:06.303172
+#+DATE: 2015-08-30 20:09:06.839690
 #+TITLE: 佛說妙吉祥菩薩所問大乘法螺經
 #+PROPERTY: CBETA_ID T14n0473
 #+PROPERTY: ID KR6i0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 473
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6i0074_T_000-0516b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0074_T_001-0516b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.473¶
-
- 佛說妙吉祥菩薩所問大乘法螺¶
+No. 473¶
+佛說妙吉祥菩薩所問大乘法螺¶
 經¶
 ¶
 西天譯經三藏、朝散大夫、試光祿¶
@@ -134,14 +133,14 @@ No.473¶
 　拶俱囉鴛鴦，¶
 　鸚鵡鵝鳩麥，
 　大藥提努牛，¶
-　羖羊龍牛王，
+　股羊龍牛王，
 　寶山吉祥果，
 <pb:KR6i0074_T_001-0517c>¶
 　播那波鹿王，
 　摩尼寶利劍，¶
 　金剛杵弓旗，
 　三叉犁鉞斧，¶
-　擣杵箭罥索，
+　擣杵箭[(ㄇ@(企-止))/ㄙ/月]索，
 　虞拏與彌伽，¶
 　梵天帝釋主，
 　持國天水天，¶
