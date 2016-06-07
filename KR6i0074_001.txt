@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:06.303172
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:33
 #+TITLE: 佛說妙吉祥菩薩所問大乘法螺經
 #+PROPERTY: CBETA_ID T14n0473
 #+PROPERTY: ID KR6i0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 473
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0074_T_000-0516b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0074_T_001-0516b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.473¶
-
- 佛說妙吉祥菩薩所問大乘法螺¶
+No. 473¶
+佛說妙吉祥菩薩所問大乘法螺¶
 經¶
 ¶
 西天譯經三藏、朝散大夫、試光祿¶
@@ -161,9 +160,9 @@ No.473¶
 　眾中釋師子，¶
 　如是等八十，
 　一一俱名好，¶
-　出現手足下。」
+　出現手足下。」」
 #+END_VERSE
-」¶
+¶
 
 佛告妙吉祥菩薩：「所有如是八十種好一切¶
 福德，如是挍量無數百千俱胝那由他倍，是¶
@@ -206,9 +205,9 @@ No.473¶
 　足下而平正，
 　常現千輻輪，¶
 　如是大丈夫，
-　三十二種相。」
+　三十二種相。」」
 #+END_VERSE
-」¶
+¶
 
 佛告妙吉祥菩薩：「如是三十二大丈夫相，於¶
 此三十二相所有福德，而以挍量阿僧祇不¶
